@@ -104,7 +104,7 @@ background-color: #00ff00;
     width: auto;
 }
 .leftContent{
-    height: auto;
+    height: 413px;
     width: 50%;
     margin: 120px 0px 0px 60px;
     padding: 25px;
@@ -127,7 +127,7 @@ margin: 0px 0px 0px 0px;
 font-size: 20px;
 }
 .rightContent{
-    height: 347px;
+    height: 413px;
     width: 30%;
     margin: 120px 0px 0px 60px;
     padding: 25px;
@@ -825,4 +825,5 @@ font-size: 20px;
     .name{
         font-size: 36px;
     }
+
 }
